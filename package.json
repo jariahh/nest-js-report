@@ -1,6 +1,6 @@
 {
   "name": "nest-js-report",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "NestJS + JsReport",
   "main": "dist/index.js",
   "repository": "https://github.com/moofoo/nest-js-report.git",
