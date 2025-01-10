@@ -1,11 +1,3 @@
-/// <reference types="jsreport-chrome-pdf" />
-/// <reference types="jsreport-docx" />
-/// <reference types="jsreport-xlsx" />
-/// <reference types="jsreport-html-to-xlsx" />
-/// <reference types="jsreport-jsrender" />
-/// <reference types="jsreport-pdf-utils" />
-/// <reference types="jsreport-scripts" />
-/// <reference types="jsreport-templates" />
 import { TemplateRegistry, TemplateLike, Response } from 'jsreport-core';
 type DeepPartial<T> = T extends object ? {
     [P in keyof T]?: DeepPartial<T[P]>;

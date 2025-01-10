@@ -43,8 +43,8 @@ let JsReportModule = JsReportModule_1 = class JsReportModule {
         };
     }
 };
-JsReportModule = JsReportModule_1 = __decorate([
+exports.JsReportModule = JsReportModule;
+exports.JsReportModule = JsReportModule = JsReportModule_1 = __decorate([
     (0, common_1.Module)({})
 ], JsReportModule);
-exports.JsReportModule = JsReportModule;
 //# sourceMappingURL=jsreport.module.js.map
